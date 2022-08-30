@@ -13,4 +13,5 @@ In the last few months I've been developing some frontend projects with **Javasc
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img height='40px' src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" /> 
 </div>
