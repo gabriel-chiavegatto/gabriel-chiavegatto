@@ -2,7 +2,7 @@
 
 I'm Developer student from Brazil;
 
-🌱 I met the programming world through the 'C' language, then turned my focus to web development. This year i started at Driven Education, taking my first steps towards becoming a software engineer.
+🌱 I met the programming world through the 'C' language, then directed my focus to web development. This year I started at Driven Education, taking my first steps towards becoming a software engineer.
 
 In the last few months I've been developing some frontend projects with **Javascript** and **React**. Now I'm started developing backend with **NODE.js**, and keep improving my skills.
 
