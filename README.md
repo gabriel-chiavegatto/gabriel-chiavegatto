@@ -1,6 +1,6 @@
 ## Hello world, I'm Gabriel
 
-I'm Developer student from Brazil;
+I'm a brazilian web development student.
 
 
 <a href="https://www.linkedin.com/in/gabriel-chiavegatto-95385a236/" target="blank"> <img width=80px src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
